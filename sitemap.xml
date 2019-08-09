@@ -3,22 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>stousn.github.io/impressum/</loc>
-    <lastmod>2019-08-09T11:54:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>stousn.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>stousn.github.io/tags/</loc>
+    <loc>/impressum/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>stousn.github.io/</loc>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   

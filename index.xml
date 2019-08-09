@@ -2,14 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog.stousn.at</title>
-    <link>stousn.github.io/</link>
+    <link>/</link>
     <description>Recent content on blog.stousn.at</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <copyright>&amp;copy; Stefan Reip</copyright>
     
-	<atom:link href="stousn.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Impressum</title>
+      <link>/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/impressum/</guid>
+      <description>Informationspflicht laut §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch, §63 Gewerbeordnung und Offenlegungspflicht laut §25 Mediengesetz.
+Stefan Reip
+8700 Leoben, Österreich
+E-Mail: stefanreip@gmail.com
+EU-Streitschlichtung Gemäß Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten (ODR-Verordnung) möchten wir Sie über die Online-Streitbeilegungsplattform (OS-Plattform) informieren. Verbraucher haben die Möglichkeit, Beschwerden an die Online Streitbeilegungsplattform der Europäischen Kommission unter http://ec.europa.eu/odr?tid=221099567 zu richten. Die dafür notwendigen Kontaktdaten finden Sie oberhalb in unserem Impressum.
+Wir möchten Sie jedoch darauf hinweisen, dass wir nicht bereit oder verpflichtet sind, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</description>
+    </item>
     
   </channel>
 </rss>
