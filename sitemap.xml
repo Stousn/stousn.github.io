@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/impressum/</loc>
+    <loc>https://blog.stousn.at/impressum/</loc>
   </url>
   
   <url>
-    <loc>/bier-auf-schiene/</loc>
+    <loc>https://blog.stousn.at/bier-auf-schiene/</loc>
     <lastmod>2019-08-12T08:26:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/hello-world/</loc>
+    <loc>https://blog.stousn.at/hello-world/</loc>
     <lastmod>2019-08-09T13:31:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://blog.stousn.at/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://blog.stousn.at/posts/</loc>
     <lastmod>2019-08-12T08:26:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://blog.stousn.at/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://blog.stousn.at/</loc>
     <lastmod>2019-08-12T08:26:39+02:00</lastmod>
     <priority>0</priority>
   </url>
