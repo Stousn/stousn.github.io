@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.stousn.at/impressum/</loc>
+    <loc>https://stousn.github.io/impressum/</loc>
   </url>
   
   <url>
-    <loc>https://blog.stousn.at/bier-auf-schiene/</loc>
+    <loc>https://stousn.github.io/bier-auf-schiene/</loc>
     <lastmod>2019-08-12T08:26:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.stousn.at/hello-world/</loc>
+    <loc>https://stousn.github.io/hello-world/</loc>
     <lastmod>2019-08-09T13:31:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.stousn.at/categories/</loc>
+    <loc>https://stousn.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.stousn.at/posts/</loc>
+    <loc>https://stousn.github.io/posts/</loc>
     <lastmod>2019-08-12T08:26:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.stousn.at/tags/</loc>
+    <loc>https://stousn.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.stousn.at/</loc>
+    <loc>https://stousn.github.io/</loc>
     <lastmod>2019-08-12T08:26:39+02:00</lastmod>
     <priority>0</priority>
   </url>

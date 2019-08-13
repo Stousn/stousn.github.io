@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on blog.stousn.at</title>
-    <link>https://blog.stousn.at/posts/</link>
+    <link>https://stousn.github.io/posts/</link>
     <description>Recent content in Posts on blog.stousn.at</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <copyright>&amp;copy; Stefan Reip</copyright>
     <lastBuildDate>Mon, 12 Aug 2019 08:26:39 +0200</lastBuildDate>
     
-	<atom:link href="https://blog.stousn.at/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stousn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>[VIDEO]: Bier auf Schiene</title>
-      <link>https://blog.stousn.at/bier-auf-schiene/</link>
+      <link>https://stousn.github.io/bier-auf-schiene/</link>
       <pubDate>Mon, 12 Aug 2019 08:26:39 +0200</pubDate>
       
-      <guid>https://blog.stousn.at/bier-auf-schiene/</guid>
+      <guid>https://stousn.github.io/bier-auf-schiene/</guid>
       <description>&lt;p&gt;Österreich. Das Bahnland #1 der EU. 1505 km legt jeder Österreicher im Schnitt pro Jahr mit dem Zug zurück&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. Etwas entspannter geht es im Museumsbetrieb der Erzbergbahn zu. Die steilste Normalspurbahn der EU&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. Am 20. Juli fand die Sonderfahrt &amp;ldquo;Bier auf Schiene&amp;rdquo; - eine Bierverkostung auf der Erzbergbahn statt.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -25,10 +25,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>https://blog.stousn.at/hello-world/</link>
+      <link>https://stousn.github.io/hello-world/</link>
       <pubDate>Fri, 09 Aug 2019 13:31:00 +0200</pubDate>
       
-      <guid>https://blog.stousn.at/hello-world/</guid>
+      <guid>https://stousn.github.io/hello-world/</guid>
       <description>&lt;h1 id=&#34;hallo-welt&#34;&gt;Hallo Welt!&lt;/h1&gt;
 
 &lt;p&gt;Ich, Stefan von &lt;a href=&#34;stousn.at&#34;&gt;stousn.at&lt;/a&gt;, habe mich dazu entschieden diesen kleinen Blog zu erstellen.
